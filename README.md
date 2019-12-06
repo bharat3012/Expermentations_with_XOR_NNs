@@ -1,1 +1,4 @@
-# experimentations-xor
+# Experimentations-XOR 
+
+
+# Implementation of Simple NNs
