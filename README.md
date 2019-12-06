@@ -1,1 +1,1 @@
-# Simple_Neural_networks
+# experimentations-xor
